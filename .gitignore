@@ -7,3 +7,4 @@ bin/
 obj/
 /PokemonGo/RocketAPI/Proto/google/protobuf
 *.suo
+PokemonGo.RocketAPI.Console/App.config
